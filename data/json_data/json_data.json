@@ -1,0 +1,84 @@
+{
+    "racas": [
+        {
+            "Nome": "Elfo",
+            "Atributos": "Des_2",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "Acostumado \u00c3\u00a0s florestas crepusculares e ao c\u00c3\u00a9u noturno, voc\u00c3\u00aa possui uma vis\u00c3\u00a3o superior em condi\u00c3\u00a7\u00c3\u00b5es de escurid\u00c3\u00a3o e na penumbra. Voc\u00c3\u00aa pode enxergar na penumbra a at\u00c3\u00a9 18 metros como se fosse na luz plena, e no escuro como se fosse na penumbra. Voc\u00c3\u00aa n\u00c3\u00a3o pode discernir cores no escuro, apenas tons de cinza._Voc\u00c3\u00aa tem vantagem nos testes de resist\u00c3\u00aancia para resistir a ser enfeiti\u00c3\u00a7ado e magias n\u00c3\u00a3o podem coloc\u00c3\u00a1-lo para dormir._Elfos n\u00c3\u00a3o precisam dormir. Ao inv\u00c3\u00a9s disso, eles meditam profundamente, permanecendo semiconscientes, durante 4 horas por dia. (A palavra em idioma comum para tal medita\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a9 \"transe\".) Enquanto medita, um elfo \u00c3\u00a9 capaz de sonhar de certo modo. Esses sonhos na verdade s\u00c3\u00a3o exerc\u00c3\u00adcios mentais que se tornam reflexos atrav\u00c3\u00a9s de anos de pr\u00c3\u00a1tica. Depois de descansar dessa forma, voc\u00c3\u00aa ganha os mesmos benef\u00c3\u00adcios que um humano depois de 8 horas de sono.",
+            "Pericias": "14",
+            "Idioma": "1_3",
+            "Subracas": "2"
+        },
+        {
+            "Nome": "Halfling",
+            "Atributos": "Des_2",
+            "Deslocamento": "7.5",
+            "Tamanho": "Pequeno",
+            "Habilidades": "Quando voc\u00c3\u00aa obtiver um 1 natural em uma jogada de ataque, teste de habilidade ou teste de resist\u00c3\u00aancia, voc\u00c3\u00aa pode jogar de novo o dado e deve utilizar o novo resultado._Voc\u00c3\u00aa tem vantagem em testes de resist\u00c3\u00aancia contra ficar amedrontado._Voc\u00c3\u00aa pode mover-se atrav\u00c3\u00a9s do espa\u00c3\u00a7o de qualquer criatura que for de um tamanho maior que o seu.",
+            "Pericias": "0",
+            "Idioma": "1_4",
+            "Subracas": "3"
+        },
+        {
+            "Nome": "Humano",
+            "Atributos": "All_1",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "None",
+            "Pericias": "0",
+            "Idioma": "1_0",
+            "Subracas": "4"
+        },
+        {
+            "Nome": "Draconato",
+            "Atributos": "For_2_Car_1",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "Voc\u00c3\u00aa possui um ancestral drac\u00c3\u00b4nico. Escolha um tipo de drag\u00c3\u00a3o da tabela Ancestral Drac\u00c3\u00b4nico. Sua arma de sopro e resist\u00c3\u00aancia a dano s\u00c3\u00a3o determinadas pelo tipo de drag\u00c3\u00a3o, como mostrado na tabela._ Voc\u00c3\u00aa pode usar uma a\u00c3\u00a7\u00c3\u00a3o para exalar energia destrutiva. Seu ancestral drac\u00c3\u00b4nico determina o tamanho, formado e tipo de dano que voc\u00c3\u00aa expele. Quando voc\u00c3\u00aa usa sua arma de sopro, cada criatura na \u00c3\u00a1rea exalada deve realizar um teste de resist\u00c3\u00aancia, o tipo do teste \u00c3\u00a9 determinado pelo seu ancestral drac\u00c3\u00b4nico. A CD do teste de resist\u00c3\u00aancia \u00c3\u00a9 8 + seu modificador de Constitui\u00c3\u00a7\u00c3\u00a3o + seu b\u00c3\u00b4nus de profici\u00c3\u00aancia. Uma criatura sofre 2d6 de dano num fracasso e metade desse dano num sucesso. O dano aumenta para 3d6 no 6\u00c2\u00b0 n\u00c3\u00advel, 4d6 no 11\u00c2\u00b0 n\u00c3\u00advel e 5d6 no 16\u00c2\u00b0 n\u00c3\u00advel. Depois de usar sua arma de sopro, voc\u00c3\u00aa n\u00c3\u00a3o poder\u00c3\u00a1 utiliz\u00c3\u00a1-la novamente at\u00c3\u00a9 completar um descanso curto ou longo. Voc\u00c3\u00aa possui resist\u00c3\u00aancia ao tipo de dano associado ao seu ancestral drac\u00c3\u00b4nico.",
+            "Pericias": "0",
+            "Idioma": "1_5",
+            "Subracas": "5"
+        },
+        {
+            "Nome": "Gnomo",
+            "Atributos": "Int_2",
+            "Deslocamento": "7.5",
+            "Tamanho": "Pequeno",
+            "Habilidades": "Acostumado \u00c3\u00a0 vida subterr\u00c3\u00a2nea, Voc\u00c3\u00aa tem uma vis\u00c3\u00a3o superior no escuro e na penumbra. Voc\u00c3\u00aa enxerga na penumbra a at\u00c3\u00a9 18 metros como se fosse luz plena, e no escuro como se fosse na penumbra. Voc\u00c3\u00aa n\u00c3\u00a3o pode discernir cores no escuro, apenas tons de cinza._Voc\u00c3\u00aa possui vantagem em todos os testes de resist\u00c3\u00aancia de Intelig\u00c3\u00aancia, Sabedoria e Carisma contra magia.",
+            "Pericias": "0",
+            "Idioma": "1_6",
+            "Subracas": "6"
+        },
+        {
+            "Nome": "Meio-Eflo",
+            "Atributos": "Car_2_Any_2",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "Gra\u00c3\u00a7as ao seu sangue \u00c3\u00a9lfico, voc\u00c3\u00aa tem uma vis\u00c3\u00a3o superior no escuro e na penumbra. Voc\u00c3\u00aa enxerga na penumbra a at\u00c3\u00a9 18 metros como se fosse luz plena, e no escuro como se fosse na penumbra. Voc\u00c3\u00aa n\u00c3\u00a3o pode discernir cores no escuro, apenas tons de cinza._Voc\u00c3\u00aa possui vantagem em testes de resist\u00c3\u00aancia contra encantamento e magia n\u00c3\u00a3o pode colocar voc\u00c3\u00aa pra dormir.",
+            "Pericias": "-2",
+            "Idioma": "1_2_0",
+            "Subracas": "0"
+        },
+        {
+            "Nome": "Meio-Orc",
+            "Atributos": "For_2_Any_2",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "Gra\u00c3\u00a7as ao seu sangue orc, voc\u00c3\u00aa tem uma vis\u00c3\u00a3o superior no escuro e na penumbra. Voc\u00c3\u00aa enxerga na penumbra a at\u00c3\u00a9 18 metros como se fosse luz plena, e no escuro como se fosse na penumbra. Voc\u00c3\u00aa n\u00c3\u00a3o pode discernir cores no escuro, apenas tons de cinza._Quando voc\u00c3\u00aa \u00c3\u00a9 reduzido a 0 pontos de vida mas n\u00c3\u00a3o \u00c3\u00a9 completamente morto, voc\u00c3\u00aa pode voltar para 1 ponto de vida. Voc\u00c3\u00aa n\u00c3\u00a3o pode usar essa caracter\u00c3\u00adstica novamente at\u00c3\u00a9 completar um descanso longo._Quando voc\u00c3\u00aa atinge um ataque cr\u00c3\u00adtico com uma arma corpo-a-corpo, voc\u00c3\u00aa pode rolar um dos dados de dano da arma mais uma vez e adicion\u00c3\u00a1-lo ao dano extra causado pelo acerto cr\u00c3\u00adtico.",
+            "Pericias": "8",
+            "Idioma": "1_7",
+            "Subracas": "0"
+        },
+        {
+            "Nome": "Tiefling",
+            "Atributos": "Car_2_Int_1",
+            "Deslocamento": "9.0",
+            "Tamanho": "M\u00c3\u00a9dio",
+            "Habilidades": "Gra\u00c3\u00a7as a sua heran\u00c3\u00a7a infernal, voc\u00c3\u00aa tem uma vis\u00c3\u00a3o superior no escuro e na penumbra. Voc\u00c3\u00aa enxerga na penumbra a at\u00c3\u00a9 18 metros como se fosse luz plena, e no escuro como se fosse na penumbra. Voc\u00c3\u00aa n\u00c3\u00a3o pode discernir cores no escuro, apenas tons de cinza._Voc\u00c3\u00aa possui resist\u00c3\u00aancia a dano de fogo._Voc\u00c3\u00aa conhece o truque taumaturgia. Quando voc\u00c3\u00aa atingir o 3\u00c2\u00b0 n\u00c3\u00advel, voc\u00c3\u00aa poder\u00c3\u00a1 conjurar a magia repreens\u00c3\u00a3o infernal uma vez por dia como uma magia de 2\u00c2\u00b0 n\u00c3\u00advel. Quando voc\u00c3\u00aa atingir o 5\u00c2\u00b0 n\u00c3\u00advel, voc\u00c3\u00aa tamb\u00c3\u00a9m poder\u00c3\u00a1 conjurar a magia escurid\u00c3\u00a3o. Voc\u00c3\u00aa precisa terminar um descanso longo para poder usar as magias desse tra\u00c3\u00a7o novamente. Sua habilidade de conjura\u00c3\u00a7\u00c3\u00a3o para essas magias \u00c3\u00a9 Carisma.",
+            "Pericias": "0",
+            "Idioma": "1_8",
+            "Subracas": "0"
+        }
+    ]
+}
